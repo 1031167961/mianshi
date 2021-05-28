@@ -24,3 +24,12 @@
 - CSS：CSS3有哪些新特性？
 - JS：AJAX的原理是什么？异步请求数据的步骤分为哪几步？
 - VUE：Class 与 Style 如何动态绑定？
+
+------
+
+## 2021年5月27日
+
+- HTML：meta viewport 是做什么用的，怎么写？
+- CSS：flex弹性盒子布局
+- JS：var与let、const的区别
+- VUE：computed 和 watch 的区别和运用的场景？
